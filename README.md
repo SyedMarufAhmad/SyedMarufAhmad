@@ -4,7 +4,7 @@
 - 👨‍💻 All of my projects are available at https://syedmarufahmad.dev
 -  I regularly write articles on https://syedmarufahmad.dev
 -  💬 Ask me about Node.js, React, Postgresql, MongoDB Etc.
--  📫 How to reach me syedmarufahmad.dev
+-  📫 How to reach me syedmasruf786@gmail.com
 
 <!---
 SyedMarufAhmad/SyedMarufAhmad is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
